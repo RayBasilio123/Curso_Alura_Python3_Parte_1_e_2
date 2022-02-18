@@ -8,7 +8,7 @@ def escolhe_jogo():
 
     print("(1) Forca (2) Adivinhação")
 
-    jogo = int(input("Qual jogo? "))1
+    jogo = int(input("Qual jogo? "))
 
     if(jogo == 1):
         print("Jogando forca")
