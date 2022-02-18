@@ -4,14 +4,20 @@ Jogos desenvolvidos com Python : Adivinhação e Forca. Durante o desenvolviment
 Abaixo é possivel observar os dois jogos em ação:
 
 
-##Foraca
+#Forca
 
 
+##Quando o usuário ganha:
 
 ![image](https://github.com/RayBasilio123/Curso_Alura_Python3_Parte_1_e_2/blob/main/Forca.png?raw=true)
+
+
+
+
+##Quando o usuário perde:
 ![image](https://github.com/RayBasilio123/Curso_Alura_Python3_Parte_1_e_2/blob/main/Fim_de_jogo_Forca.png?raw=true)
 
-##Adivinhação
+#Adivinhação
 
 
 
