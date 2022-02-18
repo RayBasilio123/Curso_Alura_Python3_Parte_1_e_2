@@ -5,8 +5,14 @@ Abaixo é possivel observar os dois jogos em ação:
 
 
 ##Foraca
+
+
+
 ![image](https://github.com/RayBasilio123/Curso_Alura_Python3_Parte_1_e_2/blob/main/Forca.png?raw=true)
 ![image](https://github.com/RayBasilio123/Curso_Alura_Python3_Parte_1_e_2/blob/main/Forca.png?raw=true)
 
 ##Adivinhação
+
+
+
 ![image](https://github.com/RayBasilio123/Curso_Alura_Python3_Parte_1_e_2/blob/main/Adivinhacao.png?raw=true)
