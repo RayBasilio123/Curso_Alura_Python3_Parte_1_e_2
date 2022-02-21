@@ -4,35 +4,36 @@ Jogos desenvolvidos com Python : Adivinhação e Forca. Durante o desenvolviment
 Abaixo é possivel observar os dois jogos em ação:
 
 
-#Forca
+<p align="left">
+ <strong>Forca</strong><br />
+</p>
+
+<p align="center">
+ <strong>Quando o usuário Ganha:</strong><br />
+</p>
+<div align="center">
+<img src="https://github.com/RayBasilio123/Curso_Alura_Python3_Parte_1_e_2/blob/main/Forca.png?raw=true" width="500px"/>
+</div>
 
 
-##Quando o usuário ganha:
-<img
-      align="center"
-      height="150em"
-      src="https://github.com/RayBasilio123/Curso_Alura_Python3_Parte_1_e_2/blob/main/Forca.png?raw=true"
-    />
+
+
+<p align="center">
+ <strong>Quando o usuário perde:</strong><br />
+</p>
 
 
 
+<div align="center">
+<img src="https://github.com/RayBasilio123/Curso_Alura_Python3_Parte_1_e_2/blob/main/Fim_de_jogo_Forca.png?raw=true" width="500px"/>
+</div>
+
+<p align="left">
+ <strong>Adivinhação</strong><br />
+</p>
 
 
-##Quando o usuário perde:
-
-<img
-      align="center"
-      height="150em"
-      src="https://github.com/RayBasilio123/Curso_Alura_Python3_Parte_1_e_2/blob/main/Fim_de_jogo_Forca.png?raw=true"
-    />
-
-
-#Adivinhação
-
-
-<img
-      align="center"
-      height="150em"
-      src="https://github.com/RayBasilio123/Curso_Alura_Python3_Parte_1_e_2/blob/main/Adivinhacao.png?raw=true"
-    />
+<div align="center">
+<img src="https://github.com/RayBasilio123/Curso_Alura_Python3_Parte_1_e_2/blob/main/Adivinhacao.png?raw=true" width="500px" />
+</div>
 
